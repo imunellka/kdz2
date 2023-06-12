@@ -1,0 +1,3 @@
+/Users/vitaminka/Desktop/Projects/kdz2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vitaminka/Desktop/Projects/kdz2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitaminka/Desktop/Projects/kdz2/cmake-build-debug/CMakeFiles/kdz2.dir
